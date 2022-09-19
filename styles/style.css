@@ -28,7 +28,7 @@ main {
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -50%);
+  transform: translate(-50%, -30%);
   background: url("../imagens/teste.png") no-repeat;
   background-size: cover;
 }
